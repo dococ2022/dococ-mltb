@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "madison-rose-stuff",
+  "private_key_id": "69cee5af02824454ab99a148fa954e7d7cffe6fa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDd9yMoyvAlnDw2\n5WVmYF27vgBw6Ne6sM39sfOeFpFCtmxhXQSi9IemtqsXkdtXvNSilD24QMsF8QUx\nEAJKL4VtO0nWs+Mnv4J7Wf1Oa70voqQy8gvkF1LSP2tV32jaLMZLg3UQ1DAqlaSy\nbI91v7HiZy/g6rM6e0rC7gjMwl968w9bDxX/qcAFPsFfLXhKGXNlI5Zwb4hBNWSZ\nI6UVty/j1RufFnlLH/J6NyyzDjRZ3GlyWW+u5mMI5fVld/BFpXL0jth7vMZuvJ0U\nXkOJ9b2uzDDzL2DOv136772+tjVhioW7A07vmAgLNJ60VQY2wrBenpY/kKWim430\npEiySA8lAgMBAAECggEALpZWtZLklQxF8iKzJenven5uUsR4NPmzfn4pWwKzEdy+\ngi/3D2nCB/p6jguhzTg3q/jvvFqzEgfslkfdJytytoK1ZIAkmvzd2tyAJ0PDNTqO\nepflaYYArtq7QU6PEA3KP+KzQSk8A9AdPYq+EJF/uTx9ptgz7oAeqKuzwqBAUIpL\n2jphBktrrsiePPUGE1s21XmqPou5FUKpQTX3otnpHKDvw4XL62ivtSSddKRd9bA0\n482P6FvVbvZbIFx10J/933kJm09rsl6ii6uZ5ay+5vwUXX/9vTxOKA4ilP6kll6n\nBs6t5RcKwihItPO54MYMFX6JP2IfrGzawlvzV2lLgQKBgQDxKdWLsYHAMmbHnAyr\ng8UnnVNR2OuvMOVVVin+hzFx75xnLi0WEiwETAkj/nazSEdbFIh9tvfgWlei/Cif\nSJZyBHwkNEC9M84v4yePsr9A/UJTrvpSxTDSw9cP6mh/4JLgOljhYIhj5nxGvAHy\n09xJbGQclaZdSagG3B2x+NqbpQKBgQDrnvJbhLrGprdBx/GKhrOxXsXMve3MYW3h\nAZS/tVSO6x15ZL5Zva9hBMAN/tlBVYJz8N4rSZQhMQhmTXTtEsgFZCImYcWrr37j\nJMA2vb7eG+C+Xaytf1micJXSbiN12CfiONPq53EN66E8YR2MfRUgvWOrx7uFbslE\nkQh/6ONNgQKBgQC/rWluS1p+YVDxjCVB2UzFTLUhk5DXwLw2VHKyO8/f5/tewwPQ\nzAayL6EAO8sqeeNFEA/gI6HmbsfC4jqDR1VUMB5fRCzEdL2HsDsMapy6UdD65FNP\noC1LB58SplQCd4MltxpXn7sn89SI//tofl1S+lSjp4oAEX/8W806XDmchQKBgQCC\ncTqHRBILDB0EQ+cK48vzdB5ZXQSbU4z7Nl7dS0wG208z93wSPpsrQO/6T46DRw2z\nljPJDzD8tyKJUHRdEzq9EVR+nz5J8Bx1L9Fh/OYAHLrtaPrCCnDbJy0qlGL5SLO7\n3+4ibAMAy+Q1gyZSsqTRvUfCwA6mrlCqrwhfl9TPAQKBgQDerfuwzQqk4i58LPaO\ndAL4LlEsyz7o/AdWw+POhcy93XZ3Y5cTYeGRnkzyvlHZNwhLrLef+4GbSpgtv3kX\n6spJZHraXcbjpQPfyBZ48pzyDSuR6MuXbiXg4fQmZPfhb5QzdFGQ3rIVBzePoCdZ\nV76ejYPm7rYu5YAompIb8+SNqg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-ggx0swgj3aur-zsu5k-lgi72j5@madison-rose-stuff.iam.gserviceaccount.com",
+  "client_id": "115373343245770530120",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-ggx0swgj3aur-zsu5k-lgi72j5%40madison-rose-stuff.iam.gserviceaccount.com"
+}
